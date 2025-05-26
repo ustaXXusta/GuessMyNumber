@@ -1,2 +1,4 @@
-# GuessMyNumber
-Guess My Number is a fun, interactive game where players guess a number between 1 and 10. The app features a vibrant, colorful design with engaging visuals, making it easy and enjoyable to play. Get hints, track attempts, and challenge yourself!
+cat << EOF > explanation.md
+# Guess My Number App
+A simple, fun game to guess a number between **1 and 10**. Enjoy a **colorful, engaging design** with hints and attempt tracking for an exciting challenge!
+EOF
