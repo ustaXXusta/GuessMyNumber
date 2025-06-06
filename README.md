@@ -1,5 +1,5 @@
 # Guess My Number 1-10 🎲
-
+https://ustaxxusta.github.io/GuessMyNumber/
 ## Overview
 A fun web game to guess a number (1-10) in the fewest tries!  
 Sleek design with glassmorphism and animations. 📱💻
